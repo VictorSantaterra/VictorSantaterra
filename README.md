@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Victor</h1>
+<h3 align="center">A software developer from Brazil </h3>
 
-<!--
-**VictorSantaterra/VictorSantaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- .NET Core 
+- JavaScript
+- SOLID
 
-Here are some ideas to get you started:
+## 📚 Learning
+- Clean Architecture
+- Unit Tests ( xUnit )
+- Docker
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 Hobbies
+- Anime/Manga
+- Games
+- Acoustic Guitar
