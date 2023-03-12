@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A software developer from Brazil </h3>
+# Hi 👋, I'm Victor
+## A software developer from Brazil
 
-## 💬 Ask me about
+### 💬 Ask me about
 - .NET Core 
 - JavaScript
 - SOLID
 
-## 📚 Learning
+### 📚 Learning
 - Clean Architecture
 - Unit Tests ( xUnit )
 - Docker
 - Git
 
-## 📅 Hobbies
+### 📅 Hobbies
 - Anime/Manga
 - Games
 - Acoustic Guitar
